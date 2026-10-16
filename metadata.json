@@ -1,0 +1,6 @@
+{
+  "name": "Orbit",
+  "description": "An iPhone-inspired native Android calling app with genuine cellular calling, InCallService, T9 keypad, custom calling cards, and security protections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

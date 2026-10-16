@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Orbit</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_recents">Recents</string>
+    <string name="tab_contacts">Contacts</string>
+    <string name="tab_keypad">Keypad</string>
+    <string name="tab_voicemail">Voicemail</string>
+
+    <string name="title_favorites">Favorites</string>
+    <string name="title_recents">Recents</string>
+    <string name="title_contacts">Contacts</string>
+    <string name="title_keypad">Keypad</string>
+    <string name="title_voicemail">Voicemail</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_contact_details">Info</string>
+    <string name="title_call_details">Call Details</string>
+
+    <string name="filter_all">All</string>
+    <string name="filter_missed">Missed</string>
+    <string name="search_placeholder">Search</string>
+    <string name="search_contacts">Search Contacts</string>
+    <string name="empty_recents">No Recents</string>
+    <string name="empty_recents_sub">Your recent calls will appear here.</string>
+    <string name="empty_favorites">No Favorites</string>
+    <string name="empty_favorites_sub">Add your favorite contacts for quick calling.</string>
+    <string name="empty_contacts">No Contacts Found</string>
+    <string name="empty_contacts_sub">Add contacts to start calling.</string>
+
+    <string name="call_incoming">Incoming Call</string>
+    <string name="call_outgoing">Calling…</string>
+    <string name="call_active">Active Call</string>
+    <string name="call_held">On Hold</string>
+    <string name="call_ended">Call Ended</string>
+    <string name="call_muted">Muted</string>
+    <string name="call_speaker">Speaker</string>
+    <string name="action_answer">Accept</string>
+    <string name="action_decline">Decline</string>
+    <string name="action_end_call">End Call</string>
+    <string name="action_mute">mute</string>
+    <string name="action_keypad">keypad</string>
+    <string name="action_speaker">audio</string>
+    <string name="action_add_call">add call</string>
+    <string name="action_hold">hold</string>
+    <string name="action_contacts">contacts</string>
+
+    <string name="default_dialer_prompt_title">Set Phone as Default</string>
+    <string name="default_dialer_prompt_desc">To handle incoming and outgoing calls with the native iOS-inspired experience, set Phone as your default phone app.</string>
+    <string name="action_set_default">Set as Default</string>
+    <string name="action_grant_permissions">Grant Permissions</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_call">call</string>
+    <string name="action_message">message</string>
+    <string name="action_share">share</string>
+    <string name="action_copy">copy</string>
+    <string name="action_block">Block this Caller</string>
+    <string name="action_unblock">Unblock this Caller</string>
+    <string name="action_delete_history">Delete Call</string>
+    <string name="action_clear_all">Clear All Recents</string>
+    <string name="action_add_to_favorites">Add to Favorites</string>
+    <string name="action_remove_from_favorites">Remove from Favorites</string>
+    <string name="action_edit_contact">Edit</string>
+    <string name="action_create_contact">Create New Contact</string>
+    <string name="action_add_to_existing_contact">Add to Existing Contact</string>
+
+    <string name="voicemail_unavailable">Voicemail Unavailable</string>
+    <string name="voicemail_carrier_hint">Visual voicemail is not configured for your carrier. Tap Call Voicemail to dial your carrier voicemail service directly.</string>
+    <string name="action_call_voicemail">Call Voicemail</string>
+
+    <string name="sim_select_title">Choose SIM for Call</string>
+    <string name="sim_slot_1">SIM 1</string>
+    <string name="sim_slot_2">SIM 2</string>
+
+    <string name="notes_placeholder">Add Notes…</string>
+    <string name="save_notes">Save Notes</string>
+</resources>
